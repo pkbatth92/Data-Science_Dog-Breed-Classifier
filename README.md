@@ -17,5 +17,5 @@ To predict the breed of a dog,
   - It also contains a few implementations of different CNNs trained to identify the dog breed of the provided image.
 
 2. extract_bottleneck_features.py
-	- A support python file that contains the functions to extract the bottleneck features for the CNNs used in the actual python notebook..\
+	- A support python file that contains the functions to extract the bottleneck features for the CNNs used in the actual python notebook.
    
