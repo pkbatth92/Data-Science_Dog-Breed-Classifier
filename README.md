@@ -18,4 +18,6 @@ To predict the breed of a dog,
 
 2. extract_bottleneck_features.py
 	- A support python file that contains the functions to extract the bottleneck features for the CNNs used in the actual python notebook.
-   
+	
+### Medium Blog Post
+We also wrote a medium blog post on the same topic going further into the details of our work which can be found here - https://medium.com/@preetkamalsingh1992/dog-breed-classifier-udacity-data-science-1dd5042fd4c1.
